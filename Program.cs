@@ -1,10 +1,3 @@
-﻿namespace TestOop
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+﻿using TestOop;
+var app = new OopApp();
+app.Run();

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestOop
 {
-    internal class OopApp
+    public class OopApp
     {
+        public void Run()
+        {
+
+        }
     }
 }
